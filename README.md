@@ -1,4 +1,3 @@
 # Assignment_Project
 
-Unity project file of assignment project 
-C# scripts of assignment project
+Unity project file and C# scripts of assignment project
